@@ -1,17 +1,17 @@
 [
   {
-    "title": "Version 1.2d NOTshhsdsdsdsd Released",
-    "update": "Added performance improvements and bug fixes.",
-    "date": "2025-05-29"
+    "title": "Upcoming Support: Windows 24H2",
+    "update": "Support for Windows 24H2 will be available soon.",
+    "date": "2025-05-30"
   },
   {
-    "title": "UI Overhaul",
-    "update": "Redesigned the settings panel.",
-    "date": "2025-05-20"
+    "title": "Loader Design Update",
+    "update": "Improved loader design for a cleaner experience.",
+    "date": "2025-05-30"
   },
   {
-    "title": "New Feature: Dark Mode",
-    "update": "Dark mode is now available in settings.",
-    "date": "2025-05-10"
+    "title": "New Game Support: Valorant",
+    "update": "Valorant will be added to the supported games.",
+    "date": "2025-05-30"
   }
 ]
